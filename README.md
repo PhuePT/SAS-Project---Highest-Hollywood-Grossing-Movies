@@ -1,7 +1,6 @@
 # SAS-Project---Highest-Hollywood-Grossing-Movies
 Data Analysis and Visualization using SAS - Hollywood Movie Dataset 
 
-Project Summary
 The project aims to analyze the top 1000 highest-grossing Hollywood movies to determine which factors contribute to their success in terms of sales. Using data up to January 10, 2022, the project investigates domestic, international, and world sales to provide insights for movie makers and industry consultants.
 
 Project Goal
